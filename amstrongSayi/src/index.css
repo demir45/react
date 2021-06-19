@@ -1,0 +1,22 @@
+.tablobutun {
+  width: 46rem;
+  height: 16rem;
+  margin-top: 100px;
+  border-radius: 48px;
+  -webkit-border-radius: 48px;
+  -moz-border-radius: 48px;
+  -ms-border-radius: 48px;
+  -o-border-radius: 48px;
+}
+
+.sonuc {
+  border-radius: 5px;
+  box-shadow: 8px 8px 6px
+    rgb(36, 33, 34);
+  width: 400px;
+  height: 40px;
+  max-height: 40px;
+  color: white;
+  /* padding: 2px; */
+  font-size: 20px;
+}

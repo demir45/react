@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "..\\javascript"
+	}
+],
+  "settings": {
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.multiRootWorkspaceName": "javascript"
+  }
+}
